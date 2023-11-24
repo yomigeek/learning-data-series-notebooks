@@ -1,2 +1,2 @@
-# learning-data-series-notebooks
+# Learning data series notebooks
 A Repository of Notebooks for Learning DataScience and ML
